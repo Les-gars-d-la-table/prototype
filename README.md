@@ -7,4 +7,4 @@ Dans mon prototype, je démontre qu'il est possible lorsqu'on reçoit les inform
 ### TuioClient
 
 TuioClient est un package max permettant au logiciel de communique par le protocole Tuio, ce protocole à été créé originalement pour la reactable et est basé sur l'OSC. Si aucun port n'est spécifié, il écoute le port 3333, qui est le même port que reacTIVision. Lorsque max reçoit les informations, elles sont divisées en 3 catégories, le route est utilisé pour les séparer.
-![patcher](Media/images/TUIOprototype.png)
+![patcher](Media/image/TUIOprototype.png)
